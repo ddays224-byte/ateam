@@ -180,17 +180,17 @@ img {
 }
 
 .hero-slide-1 {
-  background-image: url("http://cjnomusa.co.kr/default/img/main/m-ms01.jpg");
+  background-image: url("../images/hero-1.jpg");
   background-position: center;
 }
 
 .hero-slide-2 {
-  background-image: url("http://cjnomusa.co.kr/default/img/main/m-ms03.jpg");
+  background-image: url("../images/hero-2.jpg");
   background-position: center;
 }
 
 .hero-slide-3 {
-  background-image: url("http://cjnomusa.co.kr/default/img/main/m-ms01.jpg");
+  background-image: url("../images/hero-1.jpg");
   background-position: 65% center;
 }
 
